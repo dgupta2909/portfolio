@@ -1,0 +1,9 @@
+IMPORTANT: Extract the ZIP completely before opening index.html.
+Do NOT open index.html directly from inside the ZIP/archive viewer.
+
+Recommended:
+1. Right-click the ZIP -> Extract All.
+2. Open the extracted folder.
+3. Double-click index.html, or open the folder in VS Code and use Live Server.
+
+The CSS is in css/style.css and JavaScript is in js/script.js.
