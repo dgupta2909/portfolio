@@ -22,10 +22,10 @@ A functional engineering portfolio recreated from the supplied visual reference 
 - Functional mailto contact form
 - Responsive mobile layout
 
-Replace `YOUR_EMAIL@example.com` in `js/script.js` before publishing.
 
-## Your photo
-Your uploaded photo is included at `assets/devanshu-photo.jpg` and is used directly in the hero section.
+
+## Photo
+Photo is included at `assets/devanshu-photo.jpg` and is used directly in the hero section.
 
 
 ### GitHub
